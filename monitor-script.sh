@@ -5,7 +5,7 @@
 # This script is an attempt to write a basic monitoring for a hostname.
 # Author: 		Vivek Venkatachalam
 # Date of Creation: 	12th August 2019
-# Comments to add more montiroing parameters are welcome.
+# Comments to add more montoring parameters are welcome.
 ###################################################################
 
 echo "*****************************************"
